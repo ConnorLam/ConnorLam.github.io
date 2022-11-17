@@ -458,6 +458,33 @@ section {
   width: fit-content;
 }
 
+.tech {
+  display: flex;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  flex-wrap: wrap;
+  grid-gap: 40px;
+}
+
+.tech i {
+  font-size: 75px;
+}
+
+.flaskyuh {
+  padding-left: 15px;
+}
+
+.htmlyuh {
+  padding-left: 5px;
+}
+
+.cssyuh {
+  padding-left: 13px;
+}
+
+.skills-containers{
+  width: 15%;
+}
+
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
