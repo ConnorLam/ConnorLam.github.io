@@ -460,7 +460,6 @@ section {
 
 .tech {
   display: flex;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   flex-wrap: wrap;
   grid-gap: 40px;
 }
